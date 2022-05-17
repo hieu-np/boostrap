@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "bootstrap app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hieu-np/boostrap.git"
+  },
+  "author": "hieu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hieu-np/boostrap/issues"
+  },
+  "homepage": "https://github.com/hieu-np/boostrap#readme",
+  "dependencies": {
+    "bootstrap": "4.6",
+    "sass": "^1.51.0"
+  }
+}
